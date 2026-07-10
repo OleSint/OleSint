@@ -34,12 +34,11 @@ I build the tools I wish existed.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=OleSint&theme=default&hide_border=true" alt="GitHub streak" />
 </div>
 
-### 📦 A few things I've built
+### 📦 Public projects
 
-| Project | What it does |
-|---|---|
-| **[ha-connection-observer](https://github.com/OleSint/ha-connection-observer)** | Monitor smart home device connections by protocol (Zigbee, Z-Wave, Bluetooth & more) — instant or scheduled disconnect notifications for Home Assistant |
-| **[ha-battery-status-manager](https://github.com/OleSint/ha-battery-status-manager)** | HACS integration that monitors battery levels, notifies when batteries run low or drain rapidly, and supports all native HA notification services |
+<!-- REPOS:START -->
+_This list updates automatically every night._
+<!-- REPOS:END -->
 
 ### ⚡ Currently
 
