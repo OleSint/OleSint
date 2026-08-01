@@ -39,7 +39,7 @@ I build the tools I wish existed.
 <!-- REPOS:START -->
 | Project | Description | ⭐ |
 |---|---|---|
-| [ha-connection-observer](https://github.com/OleSint/ha-connection-observer) | Monitor smart home device connections by protocol (Zigbee, Z-Wave, Bluetooth & more) – instant or scheduled disconnect notifications for Home Assistant. | 11 |
+| [ha-connection-observer](https://github.com/OleSint/ha-connection-observer) | Monitor smart home device connections by protocol (Zigbee, Z-Wave, Bluetooth & more) – instant or scheduled disconnect notifications for Home Assistant. | 12 |
 | [Dropshare](https://github.com/OleSint/Dropshare) | Drop Data and share via LAN or Web | 2 |
 | [ha-battery-status-manager](https://github.com/OleSint/ha-battery-status-manager) | EN: HACS integration for Home Assistant that monitors battery levels, sends notifications when batteries run low or drain rapidly, and supports all native HA notification services.  DE:  HACS-Integration für Home Assistant zur Überwachung von Batteriezuständen – mit Benachrichtigungen bei niedrigem Ladestand und zu schneller Entladung. | 1 |
 | [social-id-extension-for-Chrome](https://github.com/OleSint/social-id-extension-for-Chrome) |  | 0 |
